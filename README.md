@@ -10,27 +10,15 @@
 </div>
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>🌏 global</summary>
 <div>
-  <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/edgar-mata-mendoza-3a5b1b274" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://instagram.com/edgar_matam" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://www.youtube.com/@radiacionEM" target="blank"><img align="center"
-         src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <br>
-    </p>
-  </samp>
+<h2 align="center"> :sassy_man: Wanna learn more something about me?  </h2>
+  
 </div>
+:school: I am an engineering physicist, graduated by the University of Guanajuato. <br>
+:trophy: I was awarded of the program "Exportation talent" in the academic excellence modality, I graduated from my bachelor's degree with academic excelence,
+  and I represented my high school in an oratory contest organized by the National Association of Superior Education Universities and Institutions.<br>
+:student: I am currently studying particle physics and data science algorithms for implementations in physics. <br>
 </details>
 
 <details>
@@ -56,19 +44,34 @@
 </div>
 </details>
 
+
 <details>
-  <summary>🌏 global</summary>
+  <summary>☎️ contact me</summary>
 <div>
-<h2 align="center"> :sassy_man: Wanna learn more something about me?  </h2>
-  
+  <samp>
+    <h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/edgar-mata-mendoza-3a5b1b274" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://instagram.com/edgar_matam" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.youtube.com/@radiacionEM" target="blank"><img align="center"
+         src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <br>
+    </p>
+  </samp>
 </div>
-:school: I am an engineering physicist, graduated by the University of Guanajuato. <br>
-:trophy: I was awarded of the program "Exportation talent" in the academic excellence modality, I graduated from my bachelor's degree with academic excelence,
-  and I represented my high school in an oratory contest organized by the National Association of Superior Education Universities and Institutions.<br>
-:student: I am currently studying particle physics and data science algorithms for implementations in physics. <br>
-
-
 </details>
+
+
+
+
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -76,13 +79,13 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/Edgar_MataM/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar_MataM&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Edgar_MataM :: Top Langs" /></a>
+          <a href="https://github.com/EdgarMataM/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarMataM&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="EdgarMataM :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/Edgar_MataM/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Edgar_MataM&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Edgar_MataM&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/EdgarMataM/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EdgarMataM&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdgarMataM&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
