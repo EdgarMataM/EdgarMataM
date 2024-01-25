@@ -60,16 +60,15 @@
   <summary>🌏 global</summary>
 <div>
 <h2 align="center"> :sassy_man: Wanna learn more something about me?  </h2>
+  
 </div>
-  <br>
-- :school: I am an engineering physicist, graduated by the University of Guanajuato.
-- :trophy: I was awarded of the program "Exportation talent" in the academic excellence modality, I graduated from my bachelor's degree with academic excelence,
-  and I represented my high school in an oratory contest organized by the National Association of Superior Education Universities and Institutions.
-- :student: I 
-- :thinking: ****
-- 👉 How to reach me ****
+- :school: I have a degree in Engineering Physics in University of Guanajuato
+- :trophy: `Ai Lab School Hack` Honorific Mention 2021
+- :student:  I’m currently learning **PyTorch, Sql and Azure**
+- :thinking: **Math, Python, Machine Learning and Data Science**
+- 📧 How to reach me **migueht20@gmail.com**
 - :nerd_face: Always `learning new things`
-  <br>
+
 </details>
 
 <details> 
