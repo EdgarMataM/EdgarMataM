@@ -61,6 +61,7 @@
 <div>
 <h2 align="center"> :sassy_man: Wanna learn more something about me?  </h2>
 </div>
+  ##
 - :school: I am an engineering physicist, graduated by the University of Guanajuato.
 - :trophy: I was awarded of the program "Exportation talent" in the academic excellence modality, I graduated from my bachelor's degree with academic excelence,
   and I represented my high school in an oratory contest organized by the National Association of Superior Education Universities and Institutions.
@@ -68,6 +69,7 @@
 - :thinking: ****
 - 👉 How to reach me ****
 - :nerd_face: Always `learning new things`
+  <br>
 </details>
 
 <details> 
