@@ -72,10 +72,10 @@
 </div>
 
 ## :sassy_man:  About me
-- :school: I am a Physics Engineer
-- :trophy: Recognition of academic excellence each year in University
-- :student: I studied in University of Guanajuato from 2018-2022
-- :thinking: **Physics, Math, Python, Machine Learning, Data Science and Quantum Computing**
+- :school: I 
+- :trophy: R
+- :student: I 
+- :thinking: ****
 - 👉 How to reach me ****
 - :nerd_face: Always `learning new things`
 </details>
