@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Edgar Mata</h1>
-<h4 align="center"> Student of the Internaional Master of Advanced Methods in Particle Physics. </h4>
+<h4 align="center"> Student of the International Master of Advanced Methods in Particle Physics. </h4>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="www.linkedin.com/in/edgar-mata-mendoza-3a5b1b274" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/edgar-mata-mendoza-3a5b1b274" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
