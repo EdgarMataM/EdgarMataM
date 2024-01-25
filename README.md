@@ -12,7 +12,7 @@
 <details>
   <summary>🌏 global</summary>
 <div>
-<h2 align="center"> :sassy_man: Wanna learn more something about me?  </h2>
+<h2 align="center"> :sassy_man: Wanna learn more about me?  </h2>
   
 </div>
 :school: I am an engineering physicist, graduated by the University of Guanajuato. <br>
