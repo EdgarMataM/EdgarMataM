@@ -59,10 +59,8 @@
 <details>
   <summary>🌏 global</summary>
 <div>
-<h2 align="center"> Wanna learn more something about me? </h2>
+<h2 align="center"> Wanna learn more something about me? :sassy_man: </h2>
 </div>
-
-## :sassy_man:  About me
 - :school: I 
 - :trophy: R
 - :student: I 
