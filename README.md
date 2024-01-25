@@ -62,13 +62,11 @@
 <h2 align="center"> :sassy_man: Wanna learn more something about me?  </h2>
   
 </div>
-- :school: I am an engineering physicist, graduated by the University of Guanajuato. <br>
-- :trophy: I was awarded of the program "Exportation talent" in the academic excellence modality, I graduated from my bachelor's degree with academic excelence,
+:school: I am an engineering physicist, graduated by the University of Guanajuato. <br>
+:trophy: I was awarded of the program "Exportation talent" in the academic excellence modality, I graduated from my bachelor's degree with academic excelence,
   and I represented my high school in an oratory contest organized by the National Association of Superior Education Universities and Institutions.<br>
-- :student: I 
-- :thinking: ****
-- 👉 How to reach me ****
-- :nerd_face: Always `learning new things`
+:student: I am currently studying particle physics and data science algorithms for implementations in physics. <br>
+
 
 </details>
 
@@ -78,25 +76,20 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <a href="https://github.com/Edgar_MataM/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar_MataM&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Edgar_MataM :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/Edgar_MataM/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Edgar_MataM&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Edgar_MataM&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
   </div>    
 </details>
 
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
+
 
 ------
 Credit: [1999azzar](https://github.com/1999azzar)
